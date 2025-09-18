@@ -1,2 +1,2 @@
 # Tejas-Demo-01
-This is my first Repo 
+This is my firstgit Repository
